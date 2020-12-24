@@ -13,9 +13,12 @@ I'm generally interested in improving speech and language processing. My current
 
 Previously, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
+[Curriculum Vittae](https:assets/Brian Yan_CV_Dec2020_vgit.pdf)
+
 ## Recent Updates
 * *Dec 2020*: We are participating in the [IWSLT offline speech translation task](https://iwslt.org/2021/offline).
 * *Nov 2020*: We submitted our long paper on speech translation to [NAACL-HLT](https://2021.naacl.org/).
 * *Sep 2020*: I've started collaborating with Dr. Shinji Watanabe's lab.
 * *May 2020*: I'm joining [SoundHound Inc.](https://soundhound.com) as a Machine Learning Intern on the Acoustic Modeling team.
-* *Sep 2019*: I'm leaving Accenture to continue my studies at Carnegie Mellon University. 
+* *Sep 2020*: I'm honored to be one of 12 [Swartz Fellows](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/james-r-swartz-entrepreneurial-fellows/2019-fellows.html).
+* *Aug 2019*: I'm leaving Accenture to continue my studies at Carnegie Mellon University. 
