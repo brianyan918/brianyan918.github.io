@@ -13,7 +13,7 @@ I'm generally interested in improving speech and language processing. My current
 
 Previously, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
-You can find my CV as of December 2020 [here](https:assets/cv.pdf)
+You can find my CV as of December 2020 [here](https:assets/cv.pdf).
 
 ## Recent Updates
 * *Dec 2020*: We are participating in the [IWSLT offline speech translation task](https://iwslt.org/2021/offline).
