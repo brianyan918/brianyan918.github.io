@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="cv.pdf" type="application/pdf" />
+<embed src="assets/cv.pdf" type="application/pdf" />
