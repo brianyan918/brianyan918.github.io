@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="https://github.com/brianyan918/brianyan918.github.io/blob/master/assets/cv.pdf" type="application/pdf" />
+<embed src="https://www.dropbox.com/s/b6rdd1xrkb5vdkw/Brian%20Yan_CV_Dec2020_vgit.pdf?dl=0" type="application/pdf" />
