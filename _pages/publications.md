@@ -4,14 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Under-Review
-* Anonymized, "Intermediate Search for End-to-End Speech Translation", *Long Paper Submitted to NAACL-HLT'21 (under different title)*, 2021 
+Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, and Shinji Watanabe, "Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks," Proc. NAACL'21 ([link](https://arxiv.org/abs/2105.00573))
 
-## In Preparation
-* **Brian Yan**, Siddharth Dalmia, Shinji Watanabe, "Universal Phone Lexicon with a Two-Stage Multilingual Approach", *Targeting ACL'21*, 2021
-
-## Non-Refereed
-* **Brian Yan**, "Using Digital Signal Processors for Fast and Light-weight Acoustic Model Inference", *SoundHound Inc. Tech-Talk*, 2020
-* Qinlan Shen, Tushar Kanakagiri, **Brian Yan**, "Unsupervised Identification and Tracking of Fine-Grained Political Factions", 2020
-* **Brian Yan**, Daniel Chang, "Neural Abstractive Summarization of Scientific Documents", 2020
-* **Brian Yan**, Kiran Prasad, Zach Kitowski, Senzeyu Zhang, "Adversarial Robustness through Volumetric Loss Functions", 2020
+Jiatong Shi, Jonathan D. Amith, Xuankai Chang, Siddharth Dalmia, **Brian Yan**, and Shinji Watanabe, "Highland Puebla Nahuatl Speech Translation Corpus for Endangered Language Documentation," Proc. AmericasNLP'21
