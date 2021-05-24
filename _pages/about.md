@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second year Master's student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am fortunate to be advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) in my research and [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html) in my capstone.
+I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am fortunate to be advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [ShinjiwLab](https://shinjiwlab.github.io).
 
 I'm generally interested in improving speech and language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end approaches.
 
-Previously, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
+I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
 You can find my CV as of December 2020 [here](https:assets/cv.pdf).
 
 ## Recent Updates
+* *May 2021*: I completed my [master's degree in Artificial Intelligence & Innovation](https://msaii.cs.cmu.edu/).
 * *Mar 2021*: Our [long paper on speech translation](https://arxiv.org/abs/2105.00573) was acceped to [NAACL2021](https://2021.naacl.org/).
 * *Dec 2020*: We are participating in the [IWSLT offline speech translation task](https://iwslt.org/2021/offline).
 * *Sep 2020*: I've started collaborating with Dr. Shinji Watanabe's lab.
