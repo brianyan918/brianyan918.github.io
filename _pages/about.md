@@ -16,9 +16,11 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 You can find my CV as of December 2020 [here](https:assets/cv.pdf).
 
 ## Recent Updates
+* *June 2021*: Our paper on language-universal speech recognition was accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).
+* *June 2021*: Our submission to the Offline Speech Translation shared task will appear at the [IWSLT 2021](https://iwslt.org/2021/offline).
+* *May 2021*: I'm spending the summer interning with [Dr. Dong Yu's](https://sites.google.com/view/dongyu888/) AI lab at Tencent America.
 * *May 2021*: I completed my [master's degree in Artificial Intelligence & Innovation](https://msaii.cs.cmu.edu/).
-* *Mar 2021*: Our [long paper on speech translation](https://arxiv.org/abs/2105.00573) was acceped to [NAACL2021](https://2021.naacl.org/).
-* *Dec 2020*: We are participating in the [IWSLT offline speech translation task](https://iwslt.org/2021/offline).
+* *Mar 2021*: Our [long paper on speech translation](https://arxiv.org/abs/2105.00573) was acceped to [NAACL 2021](https://2021.naacl.org/).
 * *Sep 2020*: I've started collaborating with Dr. Shinji Watanabe's lab.
 * *May 2020*: I'm joining [SoundHound Inc.](https://soundhound.com) as a Machine Learning Intern on the Acoustic Modeling team.
 * *Sep 2020*: I'm honored to be 1 of 12 [Swartz Fellows](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/james-r-swartz-entrepreneurial-fellows/2019-fellows.html).
