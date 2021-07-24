@@ -23,5 +23,5 @@ You can find my CV as of December 2020 [here](https:assets/cv.pdf).
 * *Mar 2021*: Our [long paper on speech translation](https://arxiv.org/abs/2105.00573) was acceped to [NAACL 2021](https://2021.naacl.org/).
 * *Sep 2020*: I've started collaborating with Dr. Shinji Watanabe's lab.
 * *May 2020*: I'm joining [SoundHound Inc.](https://soundhound.com) as a Machine Learning Intern on the Acoustic Modeling team.
-* *Sep 2020*: I'm honored to be 1 of 12 [Swartz Fellows](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/james-r-swartz-entrepreneurial-fellows/2019-fellows.html).
+* *Sep 2019*: I'm honored to be 1 of 12 [Swartz Fellows](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/james-r-swartz-entrepreneurial-fellows/2019-fellows.html).
 * *Aug 2019*: I'm leaving Accenture to continue my studies at Carnegie Mellon University. 
