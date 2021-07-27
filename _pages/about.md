@@ -16,7 +16,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 You can find my CV as of December 2020 [here](https:assets/cv.pdf).
 
 ## Recent Updates
-* *June 2021*: Our paper on language-universal speech recognition was accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).
+* *June 2021*: Our [paper on language-universal speech recognition](https://arxiv.org/abs/2107.11628) was accepted to [INTERSPEECH 2021](https://www.interspeech2021.org/).
 * *June 2021*: Our [submission](https://arxiv.org/abs/2107.00636) to the Offline Speech Translation shared task will appear at [IWSLT 2021](https://iwslt.org/2021/offline).
 * *May 2021*: I'm spending the summer interning with [Dr. Dong Yu's](https://sites.google.com/view/dongyu888/) AI lab at Tencent America.
 * *May 2021*: I completed my [master's degree in Artificial Intelligence & Innovation](https://msaii.cs.cmu.edu/).
