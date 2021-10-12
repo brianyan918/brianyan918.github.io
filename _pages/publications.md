@@ -6,6 +6,12 @@ author_profile: true
 ---
 [My Google Scholar page is more likely to be up to date.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
+## 2022
+
+**Brian Yan**, Chunlei Zhang, Meng Yu, Shi-Xiong Zhang, Siddharth Dalmia, Dan Berrebbi, Chao Weng, Shinji Watanabe, Dong Yu, "Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization", Under Review
+
+## 2021
+
 Hirofumi Inaguma, Siddharth Dalmia, **Brian Yan**, Shinji Watanabe, "Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates", Proc. ASRU'21 ([link](Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates))
 
 **Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe, "Differentiable Allophone Graphs for Language-Universal Speech Recognition", Proc. INTERSPEECH'21 ([link](https://arxiv.org/abs/2107.11628))
