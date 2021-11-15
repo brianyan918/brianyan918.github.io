@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am fortunate to be advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [WAVLab](https://shinjiwlab.github.io).
 
-I'm generally interested in improving speech and language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end approaches.
+I'm generally interested in improving speech & language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end neural networks.
 
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
