@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am fortunate to be advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [ShinjiwLab](https://shinjiwlab.github.io).
+I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am fortunate to be advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [WAVLab](https://shinjiwlab.github.io).
 
 I'm generally interested in improving speech and language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end approaches.
 
