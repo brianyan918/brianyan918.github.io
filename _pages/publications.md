@@ -8,11 +8,17 @@ author_profile: true
 
 ## 2022
 
-**Brian Yan**, Chunlei Zhang, Meng Yu, Shi-Xiong Zhang, Siddharth Dalmia, Dan Berrebbi, Chao Weng, Shinji Watanabe, Dong Yu, "Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization", Under Review
+**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe, "CMU's IWSLT 2022 Dialect Speech Translation System", Proc. IWSLT'22
+
+**Brian Yan**, Chunlei Zhang, Meng Yu, Shi-Xiong Zhang, Siddharth Dalmia, Dan Berrebbi, Chao Weng, Shinji Watanabe, Dong Yu, "Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization", Proc. ICASSP 2022 ([link](https://arxiv.org/abs/2111.15016))
+
+Siddhant Arora, Siddharth Dalmia, Pavel Denisov, Xuankai Chang, Yushi Ueda, Yifan Peng, Yuekai Zhang, Sujay Kumar, Karthik Ganesan, **Brian Yan**, Ngoc Thang Vu, Alan W Black, Shinji Watanabe, "ESPnet-SLU: Advancing Spoken Language Understanding through ESPnet", Proc. ICASSP 2022 ([link](https://arxiv.org/abs/2111.14706))
+
+Dan Berrebbi, Jiatong Shi, **Brian Yan**, Osbel Lopez-Francisco, Jonathan D. Amith, Shinji Watanabe, "Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation" ([link](https://arxiv.org/abs/2204.02470))
 
 ## 2021
 
-Hirofumi Inaguma, Siddharth Dalmia, **Brian Yan**, Shinji Watanabe, "Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates", Proc. ASRU'21 ([link](Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates))
+Hirofumi Inaguma, Siddharth Dalmia, **Brian Yan**, Shinji Watanabe, "Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates", Proc. ASRU'21 ([link](https://arxiv.org/abs/2109.12804))
 
 **Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe, "Differentiable Allophone Graphs for Language-Universal Speech Recognition", Proc. INTERSPEECH'21 ([link](https://arxiv.org/abs/2107.11628))
 
