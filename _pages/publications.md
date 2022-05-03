@@ -14,7 +14,9 @@ author_profile: true
 
 Siddhant Arora, Siddharth Dalmia, Pavel Denisov, Xuankai Chang, Yushi Ueda, Yifan Peng, Yuekai Zhang, Sujay Kumar, Karthik Ganesan, **Brian Yan**, Ngoc Thang Vu, Alan W Black, Shinji Watanabe, "ESPnet-SLU: Advancing Spoken Language Understanding through ESPnet", Proc. ICASSP 2022 ([link](https://arxiv.org/abs/2111.14706))
 
-Dan Berrebbi, Jiatong Shi, **Brian Yan**, Osbel Lopez-Francisco, Jonathan D. Amith, Shinji Watanabe, "Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation" ([link](https://arxiv.org/abs/2204.02470))
+Dan Berrebbi, Jiatong Shi, **Brian Yan**, Osbel Lopez-Francisco, Jonathan D. Amith, Shinji Watanabe, "Combining Spectral and Self-Supervised Features for Low Resource Speech Recognition and Translation", Pre-print ([link](https://arxiv.org/abs/2204.02470))
+
+Siddhant Arora, Siddharth Dalmia, Xuankai Chang, **Brian Yan**, Alan Black, Shinji Watanabe, "Two-Pass Low Latency End-to-End Spoken Language Understanding", Pre-print
 
 ## 2021
 
