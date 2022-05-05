@@ -18,6 +18,8 @@ Dan Berrebbi, Jiatong Shi, **Brian Yan**, Osbel Lopez-Francisco, Jonathan D. Ami
 
 Siddhant Arora, Siddharth Dalmia, Xuankai Chang, **Brian Yan**, Alan Black, Shinji Watanabe, "Two-Pass Low Latency End-to-End Spoken Language Understanding", Pre-print
 
+Yen-Ju Lu, Xuankai Chang, Chenda Li, Wangyou Zhang, Samuele Cornell, Zhaoheng Ni, Yoshiki Masuyama, **Brian Yan**, Robin Scheibler, Zhong-Qiu Wang, Yu Tsao, Yanmin Qian, Shinji Watanabe, "ESPnet-SE++: Speech Enhancement for Robust Speech Recognition, Translation, and Understanding", Pre-print
+
 ## 2021
 
 Hirofumi Inaguma, Siddharth Dalmia, **Brian Yan**, Shinji Watanabe, "Fast-MD: Fast Multi-Decoder End-to-End Speech Translation with Non-Autoregressive Hidden Intermediates", Proc. ASRU'21 ([link](https://arxiv.org/abs/2109.12804))
