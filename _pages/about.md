@@ -30,10 +30,10 @@ Hirofumi Inaguma\*, **Brian Yan\***, Siddharth Dalmia, Pengcheng Guo, Jiatong Sh
 *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT), 2021*
 [paper](https://arxiv.org/abs/2107.00636)
 
-**Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks**
-Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe
-*Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*
-[paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)
+**Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks**\
+<font size="3>Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe\
+*Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*\
+[paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)</font>
 
 ### Multilingual Speech Recognition
 
