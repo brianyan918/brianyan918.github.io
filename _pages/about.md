@@ -52,7 +52,7 @@ Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe,
 *2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*\
 [paper](https://arxiv.org/abs/2111.15016) / [talk](https:assets/yan2022joint.pdf) / [TLDR](https://twitter.com/brianyan918/status/1466494724144046085?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)
 
-**Differentiable Allophone Graphs for Language-Universal Speech Recognition**\
-**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe, 
-*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*\
-[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)
+[Differentiable Allophone Graphs for Language-Universal Speech Recognition](https://arxiv.org/abs/2107.11628)\
+<sub>**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe\<\sub>
+<sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*\<\sub>
+<sub>[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)<\sub>
