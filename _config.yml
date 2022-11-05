@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian Yan"
 title_separator          : "-"
 name                     : &name "Brian Yan"
-description              : &description "Graduate Student at CMU"
+description              : &description "Personal Page"
 url                      : https://brianyan918.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brianyan918/brianyan918.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Brian Yan"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student at CMU"
+  bio              : "byan[at]cs.cmu.edu"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en"
-  email            : "byan[at]cs.cmu.edu"
+  email            :
   researchgate     : 
   uri              :
   bitbucket        :
