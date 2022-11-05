@@ -16,8 +16,8 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 ## Research
 [My Google Scholar page is more likely to be up to date.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
-### *Speech Translation*
-**Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation**\
+### SPEECH TRANSLATION
+**Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
 Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe, 
 *Pre-print, 2023*
 
@@ -41,7 +41,7 @@ Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe,
 *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*\
 [paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)
 
-### *Multilingual Speech Recognition*
+### MULTILINGUAL SPEECH RECOGNITION
 **Towards Zero-Shot Code-Switched Speech Recognition**\
 **Brian Yan**, Matthew Wiesner, Ondrej Klejch, Preethi Jyothi, Shinji Watanabe, 
 *Pre-print, 2023*\
