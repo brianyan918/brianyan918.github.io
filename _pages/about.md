@@ -14,22 +14,22 @@ I'm generally interested in improving speech & language processing. My current p
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
 ## Research
-[My Google Scholar page is more likely to be up to date.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
+Some select research highlights are below. [Please see my Google Scholar for comprehensive publications.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
 ### Speech Translation
 
-Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation
+Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence GenerationA\
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
-<sub>*Pre-print, 2023*</sub>\
+<sub>*Pre-print, 2023*</sub>
 
-**CTC Alignments Improve Autoregressive Translation**
+**CTC Alignments Improve Autoregressive Translation**\
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>\
+<sub>[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
 #### CMU's IWSLT 2022 Dialect Speech Translation System [paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)
 <sub>**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe</sub>
-<sub>*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*</sub>\
+<sub>*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*</sub>
 
 #### ESPnet-ST IWSLT 2021 Offline Speech Translation System
 <sub>Hirofumi Inaguma\*, **Brian Yan\***, Siddharth Dalmia, Pengcheng Guo, Jiatong Shi, Kevin Duh, Shinji Watanabe</sub>\
