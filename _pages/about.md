@@ -101,3 +101,7 @@ CS 11-737: Multilingual NLP\
 
 Reviewer\
 <sub>APSIPA 2021, S4SG at INTERSPEECH 2022, SLT 2022</sub>
+
+## Contact
+
+Email: byan[at]cs.cmu.edu
