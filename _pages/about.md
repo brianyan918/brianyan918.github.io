@@ -13,10 +13,6 @@ I'm generally interested in improving speech & language processing. My current p
 
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
-<p align="center">
-  <img width="300" height="120" src="https:assets/wavlab.png">
-</p>
-
 ***
 
 ## Research
@@ -69,3 +65,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 ***
 
 [My Google Scholar is more comprehensive.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
+
+<p align="center">
+  <img width="300" height="120" src="https:assets/wavlab.png">
+</p>
