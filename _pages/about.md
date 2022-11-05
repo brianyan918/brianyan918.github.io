@@ -17,43 +17,44 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 [My Google Scholar page is more likely to be up to date.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
 ### Speech Translation
-Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation\
+
+#### Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>
 
-CTC Alignments Improve Autoregressive Translation\
-[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)\
+#### CTC Alignments Improve Autoregressive Translation
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
-<sub>*Pre-print, 2023*</sub>
+<sub>*Pre-print, 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-CMU's IWSLT 2022 Dialect Speech Translation System\
-[paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)\
+#### CMU's IWSLT 2022 Dialect Speech Translation System
 <sub>**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe</sub>
-<sub>*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*</sub>
+<sub>*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*</sub>\
+<sub>[paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)</sub>
 
-ESPnet-ST IWSLT 2021 Offline Speech Translation System
-[paper](https://arxiv.org/abs/2107.00636) / [TLDR](https://twitter.com/brianyan918/status/1423341460359950344?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)\
+#### ESPnet-ST IWSLT 2021 Offline Speech Translation System
 <sub>Hirofumi Inaguma\*, **Brian Yan\***, Siddharth Dalmia, Pengcheng Guo, Jiatong Shi, Kevin Duh, Shinji Watanabe</sub>\
-<sub>*Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT), 2021*</sub>
+<sub>*Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT), 2021*</sub>\
+<sub>[paper](https://arxiv.org/abs/2107.00636) / [TLDR](https://twitter.com/brianyan918/status/1423341460359950344?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks\
-[paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)\
+#### Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks
 <sub>Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe</sub>\
-<sub>*Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*</sub>
+<sub>*Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*</sub>\
+<sub>[paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)</sub>
 
 ### Multilingual Speech Recognition
 
-#### Towards Zero-Shot Code-Switched Speech Recognition\
+#### Towards Zero-Shot Code-Switched Speech Recognition
 <sub>**Brian Yan**, Matthew Wiesner, Ondrej Klejch, Preethi Jyothi, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2211.01458) / [TLDR](https://twitter.com/brianyan918/status/1588331136807100416?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-##### Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization\
+#### Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization
 <sub>**Brian Yan**, Chunlei Zhang, Meng Yu, Shi-Xiong Zhang, Siddharth Dalmia, Dan Berrebbi, Chao Weng, Shinji Watanabe, Dong Yu</sub>\
 <sub>*2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*</sub>\
 <sub>[paper](https://arxiv.org/abs/2111.15016) / [talk](https:assets/yan2022joint.pdf) / [TLDR](https://twitter.com/brianyan918/status/1466494724144046085?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-###### Differentiable Allophone Graphs for Language-Universal Speech Recognition\
+#### Differentiable Allophone Graphs for Language-Universal Speech Recognition
 <sub>**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe</sub>\
 <sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*</sub>\
 <sub>[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
