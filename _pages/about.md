@@ -22,15 +22,15 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>
 
-#### CTC Alignments Improve Autoregressive Translation
+#### CTC Alignments Improve Autoregressive Translation [paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-#### CMU's IWSLT 2022 Dialect Speech Translation System
+
+#### CMU's IWSLT 2022 Dialect Speech Translation System [paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)
 <sub>**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe</sub>
 <sub>*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*</sub>\
-<sub>[paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)</sub>
+
 
 #### ESPnet-ST IWSLT 2021 Offline Speech Translation System
 <sub>Hirofumi Inaguma\*, **Brian Yan\***, Siddharth Dalmia, Pengcheng Guo, Jiatong Shi, Kevin Duh, Shinji Watanabe</sub>\
