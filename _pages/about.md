@@ -14,11 +14,12 @@ I'm generally interested in improving speech & language processing. My current p
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
 ## Research
-Some select research highlights are below. [Please see my Google Scholar for comprehensive publications.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
-### Speech Translation
+[Please see my Google Scholar for comprehensive publications.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
-Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence GenerationA\
+*Speech Translation*
+
+**Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>
 
