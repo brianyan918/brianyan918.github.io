@@ -14,7 +14,9 @@ I'm generally interested in improving speech & language processing. My current p
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
 ## Research
-### Speech Translation
+[My Google Scholar page is more likely to be up to date.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
+
+### *Speech Translation*
 **CTC Alignments Improve Autoregressive Translation**\
 **Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe, 
 *Pre-print, 2023*\
@@ -35,5 +37,5 @@ Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe,
 *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*\
 [paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)
 
-### Multilingual Speech Recognition
+### *Multilingual Speech Recognition*
 
