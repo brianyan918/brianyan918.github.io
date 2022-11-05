@@ -80,7 +80,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 [Code-Switched Modeling](https:assets/JSALT2022cs.pdf)\
 <sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
 
-[Building End-to-End Speech Translation Systems](https:assets/yan2022cmu.pdf)
+[Building End-to-End Speech Translation Systems](https:assets/yan2022cmu.pdf)\
 <sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
 
 *Teaching*
@@ -95,5 +95,5 @@ CS 11-737: Multilingual NLP\
 
 *Academic Service*
 
-Reviewer
+Reviewer\
 <sub>APSIPA 2021, S4SG at INTERSPEECH 2022, SLT 2022</sub>
