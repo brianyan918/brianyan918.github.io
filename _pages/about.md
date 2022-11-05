@@ -20,11 +20,14 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 #### Align, Write, Re-order: Explainable End-to-End Speech Translation via Operation Sequence Generation
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
-<sub>*Pre-print, 2023*</sub>
+<sub>*Pre-print, 2023*</sub>\
+\
 
-#### CTC Alignments Improve Autoregressive Translation [paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)
+#### CTC Alignments Improve Autoregressive Translation
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
 <sub>*Pre-print, 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>\
+\
 
 
 #### CMU's IWSLT 2022 Dialect Speech Translation System [paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)
