@@ -83,6 +83,8 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 [Building End-to-End Speech Translation Systems](https:assets/yan2022cmu.pdf)\
 <sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
 
+***
+
 *Teaching*
 
 CS 11-700: Language Technologies Institute Colloquium\
@@ -92,6 +94,8 @@ CS 11-700: Language Technologies Institute Colloquium\
 CS 11-737: Multilingual NLP\
 <sub>Teaching Assistant</sub>\
 <sub>*Carnegie Mellon University, Spring 2021 DSTA Course*</sub>
+
+***
 
 *Academic Service*
 
