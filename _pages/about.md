@@ -16,24 +16,24 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 ## Research
 ### Speech Translation
 **CTC Alignments Improve Autoregressive Translation**\
-**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe\
+**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe, 
 *Pre-print, 2023*\
 [paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)
 
 **CMU's IWSLT 2022 Dialect Speech Translation System**\
-**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe\
-*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*
+**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe, 
+*Proceedings of the 19th International Conference on Spoken Language Translation (IWSLT), 2022*\
 [paper](https://aclanthology.org/2022.iwslt-1.27/) / [talk](https:assets/yan2022cmu.pdf)
 
 **ESPnet-ST IWSLT 2021 Offline Speech Translation System**\
-Hirofumi Inaguma\*, **Brian Yan\***, Siddharth Dalmia, Pengcheng Guo, Jiatong Shi, Kevin Duh, Shinji Watanabe\
-*Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT), 2021*
+Hirofumi Inaguma\*, **Brian Yan\***, Siddharth Dalmia, Pengcheng Guo, Jiatong Shi, Kevin Duh, Shinji Watanabe, 
+*Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT), 2021*\
 [paper](https://arxiv.org/abs/2107.00636)
 
 **Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence Tasks**\
-<font size="3>Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe\
+Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe, 
 *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*\
-[paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)</font>
+[paper](https://arxiv.org/abs/2105.00573) / [talk](https:assets/dalmia2021searchable.pdf)
 
 ### Multilingual Speech Recognition
 
