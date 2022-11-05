@@ -53,6 +53,6 @@ Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorizatio
 <sub>*2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*</sub>
 
 Differentiable Allophone Graphs for Language-Universal Speech Recognition\
-[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)\
 <sub>**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe</sub>\
-<sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*</sub>
+<sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*</sub>\
+<sub>[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
