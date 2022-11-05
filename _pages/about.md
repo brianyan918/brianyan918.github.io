@@ -17,6 +17,11 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
   <img width="225" height="50" src="https:assets/logos.png">
 </p>
 
+## Recent News
+
+* *June 2022*: Joining the [JSALT 2022 Workshop](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) at John's Hopkins University
+* *May 2021*: Interning at [Dr. Dong Yu's](https://sites.google.com/view/dongyu888/) AI lab at Tencent America
+
 ## Selected Publications
 
 *Speech Translation*
@@ -68,3 +73,27 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 [My Google Scholar is more comprehensive.](https://scholar.google.com/citations?user=Pn3DcuUAAAAJ&hl=en)
 
+## Activities
+
+*Talks*
+
+[Code-Switched Modeling](https:assets/JSALT2022cs.pdf)\
+<sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
+
+[Building End-to-End Speech Translation Systems](https:assets/yan2022cmu.pdf)
+<sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
+
+*Teaching*
+
+CS 11-700: Language Technologies Institute Colloquium\
+<sub>Teaching Assistant</sub>\
+<sub>*Carnegie Mellon University, 2021-22 Academic Year*</sub>
+
+CS 11-737: Multilingual NLP\
+<sub>Teaching Assistant</sub>\
+<sub>*Carnegie Mellon University, Spring 2021 DSTA Course*</sub>
+
+*Academic Service*
+
+Reviewer
+<sub>APSIPA 2021, S4SG at INTERSPEECH 2022, SLT 2022</sub>
