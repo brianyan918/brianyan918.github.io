@@ -42,17 +42,18 @@ Searchable Hidden Intermediates for End-to-End Models of Decomposable Sequence T
 <sub>*Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2021*</sub>
 
 ### Multilingual Speech Recognition
-Towards Zero-Shot Code-Switched Speech Recognition\
-[paper](https://arxiv.org/abs/2211.01458) / [TLDR](https://twitter.com/brianyan918/status/1588331136807100416?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)\
+
+#### Towards Zero-Shot Code-Switched Speech Recognition\
 <sub>**Brian Yan**, Matthew Wiesner, Ondrej Klejch, Preethi Jyothi, Shinji Watanabe</sub>\
-<sub>*Pre-print, 2023*</sub>
+<sub>*Pre-print, 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2211.01458) / [TLDR](https://twitter.com/brianyan918/status/1588331136807100416?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization\
-[paper](https://arxiv.org/abs/2111.15016) / [talk](https:assets/yan2022joint.pdf) / [TLDR](https://twitter.com/brianyan918/status/1466494724144046085?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)\
+##### Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization\
 <sub>**Brian Yan**, Chunlei Zhang, Meng Yu, Shi-Xiong Zhang, Siddharth Dalmia, Dan Berrebbi, Chao Weng, Shinji Watanabe, Dong Yu</sub>\
-<sub>*2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*</sub>
+<sub>*2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*</sub>\
+<sub>[paper](https://arxiv.org/abs/2111.15016) / [talk](https:assets/yan2022joint.pdf) / [TLDR](https://twitter.com/brianyan918/status/1466494724144046085?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
-Differentiable Allophone Graphs for Language-Universal Speech Recognition\
+###### Differentiable Allophone Graphs for Language-Universal Speech Recognition\
 <sub>**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe</sub>\
 <sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*</sub>\
 <sub>[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
