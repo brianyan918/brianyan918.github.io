@@ -54,5 +54,5 @@ Siddharth Dalmia, **Brian Yan**, Vikas Raunak, Florian Metze, Shinji Watanabe,
 
 [Differentiable Allophone Graphs for Language-Universal Speech Recognition](https://arxiv.org/abs/2107.11628)\
 <sub>**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe</sub>\
-<sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*\
-<sub>[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
+<sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2021*</sub>\
+[paper](https://arxiv.org/abs/2107.11628) / [talk](https:assets/yan2021differentiable.pdf) / [TLDR](https://twitter.com/brianyan918/status/1420860185632022531?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)
