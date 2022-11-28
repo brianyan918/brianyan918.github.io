@@ -28,7 +28,8 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 **Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
-<sub>*Pre-print, 2023*</sub>
+<sub>*Pre-print, 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2211.05967)</sub>
 
 **CTC Alignments Improve Autoregressive Translation**\
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
@@ -76,6 +77,9 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 ## Activities
 
 *Talks*
+
+[Controllable and Explainable End-to-End Speech Translation](https:assets/sigslt.pdf)\
+<sub>*SIG SLT Seminar, 2022*</sub>
 
 [Code-Switched Modeling](https:assets/JSALT2022cs.pdf)\
 <sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
