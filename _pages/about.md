@@ -40,7 +40,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 **Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
-<sub>*2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
+<sub>*2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2211.05967)</sub>
 
 **CTC Alignments Improve Autoregressive Translation**\
@@ -69,7 +69,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
 <sub>William Chen, **Brian Yan**, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*20223 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
+<sub>*2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
 **Towards Zero-Shot Code-Switched Speech Recognition**\
