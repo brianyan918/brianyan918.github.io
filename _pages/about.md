@@ -35,7 +35,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 <sub>*Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT), 2023*</sub>
 
 **ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**\
-<sub>**Brian Yan**, Jiatong Shi\*, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe</sub>\
+<sub>**Brian Yan\***, Jiatong Shi\*, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*</sub>
 
 **Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
