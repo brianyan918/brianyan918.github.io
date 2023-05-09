@@ -27,16 +27,16 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 *Speech Translation*
 
-**Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**
-<sub>Peter Polak, **Brian Yan**, Shinji Watanabe, Alexander Waibel, Ondrej Bojar</sub>\
+**Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**\
+<sub>Peter Polak, **Brian Yan**, Shinji Watanabe, Alexander Waibel, Ondrej Bojar</sub>
 
-**CMU’s IWSLT 2023 Simultaneous Speech Translation System**
+**CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
 <sub>**Brian Yan\***, Jiatong Shi\*, Soumi Maiti, William Chen, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
-<sub>*Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT), 2023*</sub>\
+<sub>*Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT), 2023*</sub>
 
-**ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**
+**ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**\
 <sub>**Brian Yan**, Jiatong Shi\*, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe</sub>\
-<sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*</sub>\
+<sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*</sub>
 
 **Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
@@ -67,7 +67,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 *Multilingual Speech Recognition*
 
-**Improving Massively Multilingual ASR With Auxiliary CTC Objectives**
+**Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
 <sub>William Chen, **Brian Yan**, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*20223 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
