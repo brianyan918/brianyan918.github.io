@@ -27,12 +27,18 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 *Speech Translation*
 
+**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**\
+<sub>**Brian Yan**, Xuankai Chang, Antonios Anastasopoulos, Yuya Fujita, Shinji Watanabe</sub>
+<sub>[paper](https://arxiv.org/abs/2309.15826)</sub>
+
 **Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**\
 <sub>Peter Polak, **Brian Yan**, Shinji Watanabe, Alexander Waibel, Ondrej Bojar</sub>
+<sub>[paper](https://arxiv.org/abs/2309.11379)</sub>
 
 **CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
 <sub>**Brian Yan\***, Jiatong Shi\*, Soumi Maiti, William Chen, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT), 2023*</sub>
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
 
 **ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**\
 <sub>**Brian Yan\***, Jiatong Shi\*, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe</sub>\
