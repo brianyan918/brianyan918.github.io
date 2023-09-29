@@ -34,6 +34,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**\
 <sub>Peter Polak, **Brian Yan**, Shinji Watanabe, Alexander Waibel, Ondrej Bojar</sub>
 <sub>[paper](https://arxiv.org/abs/2309.11379)</sub>
+<sub>*Annual Conference of the International Speech Communication Association (INTERSPEECH), 2023*</sub>\
 
 **CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
 <sub>**Brian Yan\***, Jiatong Shi\*, Soumi Maiti, William Chen, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
