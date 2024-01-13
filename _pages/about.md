@@ -29,7 +29,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 **Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**\
 <sub>**Brian Yan**, Xuankai Chang, Antonios Anastasopoulos, Yuya Fujita, Shinji Watanabe</sub>\
-<sub>*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
+<sub>*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*</sub>\
 <sub>[paper](https://arxiv.org/abs/2309.15826)</sub>
 
 **Incremental Blockwise Beam Search for Simultaneous Speech Translation with Controllable Quality-Latency Tradeoff**\
@@ -116,6 +116,10 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 ***
 
 *Teaching*
+
+CS 11-751: Speech Recognition and Understanding\
+<sub>Teaching Assistant</sub>\
+<sub>*Carnegie Mellon University, Fall 2023*</sub>
 
 CS 11-700: Language Technologies Institute Colloquium\
 <sub>Teaching Assistant</sub>\
