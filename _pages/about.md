@@ -134,7 +134,7 @@ CS 11-737: Multilingual NLP\
 *Academic Service*
 
 Reviewer\
-<sub>ICASSP, Interspeech, ASRU, NAACL, APSIPA, SLT</sub>
+<sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub>
 
 ## Contact
 
