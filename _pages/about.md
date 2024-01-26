@@ -55,7 +55,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **CTC Alignments Improve Autoregressive Translation**\
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (EACL), 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2210.05200) / [talk](https:assets/EACL_2023_Talk.pdf) [poster](https:assets/EACL23_poster.pdf) [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
+<sub>[paper](https://arxiv.org/abs/2210.05200) / [talk](https:assets/EACL_2023_Talk.pdf) / [poster](https:assets/EACL23_poster.pdf) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
 **CMU's IWSLT 2022 Dialect Speech Translation System**\
 <sub>**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe</sub>\
