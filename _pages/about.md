@@ -40,12 +40,12 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
 <sub>**Brian Yan\***, Jiatong Shi\*, Soumi Maiti, William Chen, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 21th International Conference on Spoken Language Translation (IWSLT), 2023*</sub>\
-<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/) / [poster](https:assets/IWSLT23_Poster.pdf)</sub>
 
 **ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**\
 <sub>**Brian Yan\***, Jiatong Shi\*, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2304.04596)</sub>
+<sub>[paper](https://arxiv.org/abs/2304.04596) / [poster](https:assets/ACL23_Poster.pdf)</sub>
 
 **Align, Write, Re-order: Explainable E2E Speech Translation via Operation Sequence Generation**\
 <sub>Motoi Omachi\*, **Brian Yan\***, Siddharth Dalmia, Yuya Fujita, Shinji Watanabe</sub>\
@@ -55,7 +55,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **CTC Alignments Improve Autoregressive Translation**\
 <sub>**Brian Yan**, Siddharth Dalmia, Yosuke Higuchi, Graham Neubig, Florian Metze, Alan W Black, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (EACL), 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2210.05200) / [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
+<sub>[paper](https://arxiv.org/abs/2210.05200) / [talk](https:assets/EACL_2023_Talk.pdf) [poster](https:assets/EACL23_poster.pdf) [TLDR](https://twitter.com/brianyan918/status/1580309616122290176?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
 **CMU's IWSLT 2022 Dialect Speech Translation System**\
 <sub>**Brian Yan**, Patrick Fernandes, Siddharth Dalmia, Jiatong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, Shinji Watanabe</sub>\
@@ -84,12 +84,12 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **Towards Zero-Shot Code-Switched Speech Recognition**\
 <sub>**Brian Yan**, Matthew Wiesner, Ondrej Klejch, Preethi Jyothi, Shinji Watanabe</sub>\
 <sub>*2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2211.01458) / [TLDR](https://twitter.com/brianyan918/status/1588331136807100416?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
+<sub>[paper](https://arxiv.org/abs/2211.01458) / [poster](https:assets/ICASSP23_Poster.pdf) / [TLDR](https://twitter.com/brianyan918/status/1588331136807100416?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
 **Joint Modeling of Code-Switched and Monolingual ASR via Conditional Factorization**\
 <sub>**Brian Yan**, Chunlei Zhang, Meng Yu, Shi-Xiong Zhang, Siddharth Dalmia, Dan Berrebbi, Chao Weng, Shinji Watanabe, Dong Yu</sub>\
 <sub>*2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*</sub>\
-<sub>[paper](https://arxiv.org/abs/2111.15016) / [talk](https:assets/yan2022joint.pdf) / [TLDR](https://twitter.com/brianyan918/status/1466494724144046085?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
+<sub>[paper](https://arxiv.org/abs/2111.15016) / [talk](https:assets/yan2022joint.pdf) / [poster](https:assets/CS_ICASSP22_Poster.pdf) / [TLDR](https://twitter.com/brianyan918/status/1466494724144046085?s=20&t=kZAycuSKXZ6CuCoDR8nLrA)</sub>
 
 **Differentiable Allophone Graphs for Language-Universal Speech Recognition**\
 <sub>**Brian Yan**, Siddharth Dalmia, David R. Mortensen, Florian Metze, Shinji Watanabe</sub>\
