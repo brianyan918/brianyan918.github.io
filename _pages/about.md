@@ -29,6 +29,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
 <sub>William Chen, **Brian Yan**, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
+<sub><span style="color: red;">Best student paper award IEEE ICASSP 2023</span></sub>\
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
 **ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**\
@@ -95,7 +96,7 @@ CS 11-737: Multilingual NLP\
 *Academic Service*
 
 Reviewer\
-<sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub>
+<sub>ICASSP, Interspeech, ACL, EMNLP, NAACL, SLT, ASRU, APSIPA</sub>
 
 ## Contact
 
