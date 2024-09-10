@@ -19,7 +19,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 ## Updates
 
-* *May 2024*: Interning at Meta FAIR with [Michael Auli](https://michaelauli.github.io/)
+* *May 2024*: Interning at Meta FAIR with [Dr. Michael Auli](https://michaelauli.github.io/)
 * *June 2023*: Joining the [SCALE 2023 Workshop](https://hltcoe.jhu.edu/research/scale/scale-2023) at John's Hopkins University
 * *June 2022*: Joining the [JSALT 2022 Workshop](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) at John's Hopkins University
 * *May 2021*: Interning at [Dr. Dong Yu's](https://sites.google.com/view/dongyu888/) AI lab at Tencent America
@@ -29,7 +29,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
 <sub>William Chen, **Brian Yan**, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
-<sub><span style="color: red;">Best student paper award IEEE ICASSP 2023</span></sub>\
+<sub><span style="color: red;">Best student paper award at IEEE ICASSP 2023</span></sub>\
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
 **ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit**\
