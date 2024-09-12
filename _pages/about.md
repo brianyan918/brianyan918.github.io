@@ -38,7 +38,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 <sub>[paper](https://arxiv.org/abs/2304.04596) / [poster](https:assets/ACL23_Poster.pdf)</sub>
 
 **Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization**\
-<sub>Puyuan Peng, **Brian Yan\**, Shinji Watanabe, David Harwath</sub>\
+<sub>Puyuan Peng, **Brian Yan**, Shinji Watanabe, David Harwath</sub>\
 <sub>*24th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2305.11095)</sub>
 
