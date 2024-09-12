@@ -38,8 +38,8 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 <sub>[paper](https://arxiv.org/abs/2304.04596) / [poster](https:assets/ACL23_Poster.pdf)</sub>
 
 **Prompting the hidden talent of web-scale speech models for zero-shot task generalization**\
-<sub>Puyuan Peng, Brian Yan, Shinji Watanabe, David Harwath</sub>\
-<sub>*INTERSPEECH 2023*</sub>\
+<sub>Puyuan Peng, **Brian Yan\**, Shinji Watanabe, David Harwath</sub>\
+<sub>*24th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2305.11095)</sub>
 
 **CTC Alignments Improve Autoregressive Translation**\
