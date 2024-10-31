@@ -28,7 +28,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 **Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking**\
 <sub>**Brian Yan**, Vineel Pratap, Shinji Watanabe, Michael Auli</sub>\
-<sub>*Pre-print</sub>\
+<sub>*Pre-print*</sub>\
 <sub>[paper](https://arxiv.org/abs/2409.18428)</sub>
 
 **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
