@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [WAVLab](https://shinjiwlab.github.io).
 
-I'm generally interested in improving speech & language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end neural networks.
+I'm generally interested in improving speech & language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end neural networks. My work has received the best student paper award at ICASSP and ranked first in multiple IWSLT challenges.
 
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
@@ -26,6 +26,11 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 ## Selected Publications
 
+**Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking**\
+<sub>**Brian Yan**, Vineel Pratap, Shinji Watanabe, Michael Auli</sub>\
+<sub>*Pre-print</sub>\
+<sub>[paper](https://arxiv.org/abs/2409.18428)</sub>
+
 **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
 <sub>William Chen, **Brian Yan**, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*</sub>\
@@ -36,6 +41,12 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 <sub>**Brian Yan\***, Jiatong Shi\*, Yun Tang, Hirofumi Inaguma, Yifan Peng, Siddharth Dalmia, Peter Polák, Patrick Fernandes, Dan Berrebbi, Tomoki Hayashi, Xiaohui Zhang, Zhaoheng Ni, Moto Hira, Soumi Maiti, Juan Pino, Shinji Watanabe</sub>\
 <sub>*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2304.04596) / [poster](https:assets/ACL23_Poster.pdf)</sub>
+
+**CMU's IWSLT 2023 Simultaneous Speech Translation System**\
+<sub>**Brian Yan\***, Jiatong Shi\*, Soumi Maiti, William Chen, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
+<sub>*Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT), 2023*</sub>\
+<sub><span style="color: red;">Winning submission to the IWSLT 2023 Simultaneous Speech-to-Speech Translation Track (English-to-German)</span></sub>\
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
 
 **Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization**\
 <sub>Puyuan Peng, **Brian Yan**, Shinji Watanabe, David Harwath</sub>\
