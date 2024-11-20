@@ -37,7 +37,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 <sub><span style="color: red;">Best student paper award at IEEE ICASSP 2023</span></sub>\
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
-**Exploration of Efficient End-to-End ASR Using Discretized Input from Self-Supervised Learning"\
+**Exploration of Efficient End-to-End ASR Using Discretized Input from Self-Supervised Learning**\
 <sub>Xuankai Chang, **Brian Yan**, Yuya Fujita, Takashi Maekaku, Shinji Watanabe</sub>\
 <sub>*24th Annual Conference of the International Speech Communication Association (INTERSPEECH), 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2305.18108)</sub>
